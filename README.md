@@ -31,7 +31,7 @@ This Python program implements a simple console-based Tic-Tac-Toe game using the
 3. Run the game:
 
    ```bash
-   python tictactoe.py
+   python main.py
    ```
 
 4. Follow the on-screen instructions to choose your player and make moves.
@@ -55,7 +55,7 @@ In the context of Tic-Tac-Toe, the minimax algorithm is employed for the AI play
 To run the Tic-Tac-Toe game with the minimax algorithm:
 
 ```bash
-python tictactoe.py
+python main.py
 ```
 
 Follow the on-screen instructions to choose your player ('X' or 'O') and make moves. The AI player will use the minimax algorithm to determine its moves, providing a challenging opponent for the player. The game continues until there is a winner, a draw, or the user decides to exit.
